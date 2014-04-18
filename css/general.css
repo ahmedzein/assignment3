@@ -43,7 +43,7 @@ img {
 }
 
 .logo {
-    height: 3rem;
+    height: 4.5rem;
     width: auto;
     margin: .5rem 1%;
 }
@@ -70,7 +70,7 @@ img {
 }
 
 article h1 {
-    font-size: 2rem;
+    font-size: 3rem;
     font-family: 'Ceviche One',Brush Script MT, cursive;
 }
 
@@ -102,7 +102,7 @@ p {
 .nav-top a:visited {
     display: inline-block;
     margin: 0;
-    padding: 1.5rem 10%;
+    padding: 0.8rem 10%;
     color: white;
     font-size: 1.25rem;
     text-decoration: none;
@@ -145,14 +145,14 @@ h2 {
 
 
 .bottomlogo {
-    height: 2rem;
+    height: 3rem;
     width: auto;
     margin: -1.5rem 1%;
     float: right;    
 }
 
 .twitter {
-    height: 3rem;
+    height: 4rem;
     width: auto;
     margin: 2rem 1%;
     float: left;
@@ -160,15 +160,15 @@ h2 {
 
 
 .facebook {
-    height: 3rem;
+    height: 4rem;
     width: auto;
     margin: 2rem 22%;
 }
 
 .instagram {
-    height: 3rem;
+    height: 4rem;
     width: auto;
-    margin: -5rem 51%;
+    margin: -6rem 50%;
     float: right;
 }
 
